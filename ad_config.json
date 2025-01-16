@@ -3,7 +3,6 @@
   "inter_display": false,
   "reward_display": false,
   "app_open_display": false,
-  "intro_display": 1,
-  "reward_ads_app":"aHR0cHM6Ly9jaGFuemV1Lm9ubGluZQ==",
+  "intro_display": 0,
   "display_it_rw": "reward"
 }
